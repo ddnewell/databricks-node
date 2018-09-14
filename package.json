@@ -1,0 +1,14 @@
+{
+  "name": "databricks",
+  "version": "0.0.1",
+  "description": "Databricks API wrapper",
+  "main": "lib/databricks.js",
+  "repository": "https://github.com/Footage-Firm/databricks-node",
+  "author": "Alex Gandy <alex@storyblocks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "got": "^9.2.1",
+    "lodash": "^4.17.11"
+  }
+}
