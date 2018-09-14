@@ -1,5 +1,7 @@
 # Databricks Node.js Library
 
+[![npm](https://img.shields.io/npm/v/:package.svg)](https://www.npmjs.com/package/databricks-node)
+
 This is a simple API wrapper to provide access to the databricks API.
 
 ## Documentation
