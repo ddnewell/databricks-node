@@ -1,6 +1,6 @@
 {
-  "name": "databricks",
-  "version": "0.0.1",
+  "name": "databricks-node",
+  "version": "0.0.9",
   "description": "Databricks API wrapper",
   "main": "lib/databricks.js",
   "repository": "https://github.com/Footage-Firm/databricks-node",
